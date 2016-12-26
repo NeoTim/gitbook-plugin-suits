@@ -1,0 +1,8 @@
+{
+    "name": "gitbook-plugin-suits",
+    "version": "0.0.1",
+    "description": "Colorize suits of playing cards",
+    "engines": {
+        "gitbook": "> 1.x.x"
+    }
+}
